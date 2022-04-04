@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Nida KUS 👋</h1>
 <h3 align="center">I'm interested in Programming</h3>
 
--💻 I am currently learning <b>web programming and java</b>. <br>
--🚀 All of my projects are available at [https://github.com/nidakus](https://github.com/nidakus)<br>
--📫 How to reach me **nidakus.nk@gmail.com**<br>
++ 💻 I am currently learning <b>web programming and java</b>. <br>
++ 🚀 All of my projects are available at [https://github.com/nidakus](https://github.com/nidakus)<br>
++ 📫 How to reach me **nidakus.nk@gmail.com**<br>
 
  <p align="left">
  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
