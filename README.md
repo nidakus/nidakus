@@ -1,4 +1,4 @@
-<h1 align="center" font-size="20px">Hi, I'm Nida KUS 👋</h1>
+<h1 align="center" font-size="60px">Hi, I'm Nida KUS 👋</h1>
 <h3 align="center">I'm interested in Programming</h3>
 
 + 💻 I am currently learning <b>web programming and java</b>. <br>
