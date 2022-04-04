@@ -3,9 +3,8 @@
 <p align="right">
 <img align="right" height="300" src="https://scontent.fada2-2.fna.fbcdn.net/v/t1.18169-9/12345630_1692100331001609_3772273878276119222_n.png?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=rp_kiA114PMAX_amcCG&_nc_oc=AQnTSgSb81iJxzDWUg4dehDM5Kf3je58wpSqzB90OaLgjPWehBKeP041VUwHUFytWx8&_nc_ht=scontent.fada2-2.fna&oh=00_AT8scHmobIo3LLikY5TRKnFMiVvgVMiuF1DqWqicODEaAQ&oe=6270945D" />
 </p>
-</br>
 
-<p align="center">
+<p align="left">
   <img src= "https://gpvc.arturio.dev/nidakus" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
 </p>
 </br>
