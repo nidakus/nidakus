@@ -30,9 +30,9 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/nidakus/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nidakus" height="30" width="30" /></a>
 
-</p><br>
+</p>
 
-<h3>GitHub Analytics:</h3>
+<h3>GitHub Analytics 📊:</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=nidakus&show_icons=true&theme=dark&locale=en&layout=compact"
     alt="adam-pw" /></p>
