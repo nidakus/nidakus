@@ -32,7 +32,7 @@
 
 </p>
 
-<h3>GitHub Analytics 📊:</h3>
+<h3> 📊 GitHub Analytics:</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=nidakus&show_icons=true&theme=dark&locale=en&layout=compact"
     alt="adam-pw" /></p>
