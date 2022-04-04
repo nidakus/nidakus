@@ -9,6 +9,7 @@
 + 🚀 All of my projects are available at [https://github.com/nidakus](https://github.com/nidakus)<br>
 + 📫 How to reach me **nidakus.nk@gmail.com**<br>
 
+<h3>Language and Tools I Use:</h3>
  <p align="left">
  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
@@ -24,7 +25,7 @@
 </p>
 
 <p align="center">
-
+<h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/nidakus/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nidakus" height="30" width="30" /></a>
 
 </p>
