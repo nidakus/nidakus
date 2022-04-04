@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nida KUS </h1>
 <h3 align="center">I'm interested in Programming</h3>
 <p align="right">
-<img align="right" height="350" src="https://scontent.fada2-2.fna.fbcdn.net/v/t1.18169-9/12345630_1692100331001609_3772273878276119222_n.png?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=rp_kiA114PMAX_amcCG&_nc_oc=AQnTSgSb81iJxzDWUg4dehDM5Kf3je58wpSqzB90OaLgjPWehBKeP041VUwHUFytWx8&_nc_ht=scontent.fada2-2.fna&oh=00_AT8scHmobIo3LLikY5TRKnFMiVvgVMiuF1DqWqicODEaAQ&oe=6270945D" />
+<img align="right"  height="350" src="https://scontent.fada2-2.fna.fbcdn.net/v/t1.18169-9/12345630_1692100331001609_3772273878276119222_n.png?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=rp_kiA114PMAX_amcCG&_nc_oc=AQnTSgSb81iJxzDWUg4dehDM5Kf3je58wpSqzB90OaLgjPWehBKeP041VUwHUFytWx8&_nc_ht=scontent.fada2-2.fna&oh=00_AT8scHmobIo3LLikY5TRKnFMiVvgVMiuF1DqWqicODEaAQ&oe=6270945D" />
 </p>
 
 <p align="left">
@@ -30,5 +30,11 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/nidakus/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nidakus" height="30" width="30" /></a>
 
-</p>
+</p><br>
+
+<h3>GitHub Analytics:</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=nidakus&show_icons=true&theme=dark&locale=en&layout=compact"
+    alt="adam-pw" /></p>
+
 
