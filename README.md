@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nida KUS </h1>
 <h3 align="center">I'm interested in Programming</h3>
+
 <p align="right">
 <img align="right"  height="350" src="https://scontent.fada2-2.fna.fbcdn.net/v/t1.18169-9/12345630_1692100331001609_3772273878276119222_n.png?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=rp_kiA114PMAX_amcCG&_nc_oc=AQnTSgSb81iJxzDWUg4dehDM5Kf3je58wpSqzB90OaLgjPWehBKeP041VUwHUFytWx8&_nc_ht=scontent.fada2-2.fna&oh=00_AT8scHmobIo3LLikY5TRKnFMiVvgVMiuF1DqWqicODEaAQ&oe=6270945D" />
 </p>
@@ -23,7 +24,6 @@
   <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="visualstdio" width="40" height="40"/>
   <img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" alt="visualstdiocode" width="40" height="40"/>
   <img src="https://www.yazilimevi.com/images/virtuemart/product/JetBrains-IntelliJ-IDEA-Ultimate-2018-indir.png" alt="intellijidea" width="40" height="40"/>
-  
 </p>
 
 <p align="center">
@@ -36,5 +36,3 @@
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=nidakus&show_icons=true&theme=dark&locale=en&layout=compact"
     alt="adam-pw" /></p>
-
-
