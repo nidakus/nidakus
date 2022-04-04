@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nida KUS </h1>
 <h3 align="center">I'm interested in Programming</h3>
-<p align="center">
-<img align="center" height="100" src="https://scontent.fada2-2.fna.fbcdn.net/v/t1.18169-9/12345630_1692100331001609_3772273878276119222_n.png?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=rp_kiA114PMAX_amcCG&_nc_oc=AQnTSgSb81iJxzDWUg4dehDM5Kf3je58wpSqzB90OaLgjPWehBKeP041VUwHUFytWx8&_nc_ht=scontent.fada2-2.fna&oh=00_AT8scHmobIo3LLikY5TRKnFMiVvgVMiuF1DqWqicODEaAQ&oe=6270945D" />
+<p align="right">
+<img align="right" height="100" src="https://scontent.fada2-2.fna.fbcdn.net/v/t1.18169-9/12345630_1692100331001609_3772273878276119222_n.png?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=rp_kiA114PMAX_amcCG&_nc_oc=AQnTSgSb81iJxzDWUg4dehDM5Kf3je58wpSqzB90OaLgjPWehBKeP041VUwHUFytWx8&_nc_ht=scontent.fada2-2.fna&oh=00_AT8scHmobIo3LLikY5TRKnFMiVvgVMiuF1DqWqicODEaAQ&oe=6270945D" />
 </p>
 </br>
 
