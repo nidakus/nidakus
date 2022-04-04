@@ -1,5 +1,9 @@
-<h1 align="center">Hi, I'm Nida Nur KUS 👋</h1>
+<h1 align="center">Hi 👋, I'm Nida KUS </h1>
 <h3 align="center">I'm interested in Programming</h3>
+<p align="center">
+<img align="center" src="https://scontent.fada2-2.fna.fbcdn.net/v/t1.18169-9/12345630_1692100331001609_3772273878276119222_n.png?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=rp_kiA114PMAX_amcCG&_nc_oc=AQnTSgSb81iJxzDWUg4dehDM5Kf3je58wpSqzB90OaLgjPWehBKeP041VUwHUFytWx8&_nc_ht=scontent.fada2-2.fna&oh=00_AT8scHmobIo3LLikY5TRKnFMiVvgVMiuF1DqWqicODEaAQ&oe=6270945D" />
+</p>
+</br>
 
 + 💻 I am currently learning <b>web programming and java</b>. <br>
 + 🚀 All of my projects are available at [https://github.com/nidakus](https://github.com/nidakus)<br>
