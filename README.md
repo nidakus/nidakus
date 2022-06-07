@@ -9,7 +9,7 @@
   <img src= "https://gpvc.arturio.dev/nidakus" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">
 </p>
 
-+ 💻 I am currently learning <b>web programming and java</b>. <br>
++ 💻 I am currently learning <b>java</b>. <br>
 + 🚀 All of my projects are available at [https://github.com/nidakus](https://github.com/nidakus)<br>
 + 📫 How to reach me **nidakus.nk@gmail.com**<br>
 
