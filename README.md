@@ -9,7 +9,6 @@
   <img src= "https://gpvc.arturio.dev/nidakus" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">
 </p>
 
-+ 💻 I am currently <b>python</b>. <br>
 + 🚀 All of my projects are available at [https://github.com/nidakus](https://github.com/nidakus)<br>
 + 📫 How to reach me **nidakus.nk@gmail.com**<br>
 
